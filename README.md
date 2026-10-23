@@ -1,8 +1,9 @@
-# BrowserOS 2.1.2
+# BrowserOS 2.1.2 (legacy)
 
 **Your desktop, in a browser tab.** BrowserOS is a playful, browser-based desktop environment with windows, apps, a taskbar, a Start menu, and a virtual filesystem of its own.
 
-[Open BrowserOS](https://jg-tech-aosp.github.io/browseros/) · [Technical specification](SPEC.md)
+[Open current BrowserOS](https://jg-tech-aosp.github.io/browseros/) · [Technical specification](SPEC.md)
+[Open BrowserOS 2](https://jg-tech-aosp.github.io/browseros2-legacy/)
 
 ![BrowserOS logo](assets/browseros-logo-white-black.png)
 
